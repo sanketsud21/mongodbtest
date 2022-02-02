@@ -12,6 +12,7 @@ MongoClient.connect('mongodb://admin:password@localhost:27017', function(err, cl
             console.log(res)
         })
 
+        
     
 
 })
